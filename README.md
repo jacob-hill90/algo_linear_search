@@ -43,3 +43,6 @@ global_linear_search("a", bananas_list)
 ```
 
 There are no tests for `global_linear_search` right now. Maybe the example above is a good starting point?
+
+
+```~~~```
